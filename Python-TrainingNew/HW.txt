@@ -1,0 +1,25 @@
+get input from user for student details(Name,ID,Marks), check the marks and giv grade
+print student information with grade
+______________________________________________________________________________________________
+
+
+same student details
+limit the sudent for 2 using while loop
+
+
+calculate % for total marks for n num of students using for loops
+_____________________________________________________________________________________________
+
+
+
+
+Filter
+_____________________________________
+
+Filter with eligible marks
+multiple sequences of 5
+
+Reduce
+______________________________________
+Try one more if else statement
+
